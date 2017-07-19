@@ -15,11 +15,6 @@ In this lesson we'll define, create, and call functions that take one and zero a
 * Break down the various parts of a function
 * Create functions that takes no arguments and functions that take one argument
 
-## Functions Video
-
-[![](http://img.youtube.com/vi/W1_ZJTch5EU/0.jpg)](https://www.youtube.com/watch?v=W1_ZJTch5EU "Functions")
-
-
 ## Functions
 
 So far, all the code you have written has been a set of steps, such as declaring a variable or constant (using `var` or `let`) or printing variables to the console (using Swift's `print()` function). While this has allowed you to do some cool things, having to constantly retype what you want a program to do doesn't scale well to larger programs. Wouldn't it be nice if you could have a bit of common code in one place, and execute it every time you want to use it?
@@ -167,8 +162,5 @@ sayHello(name: dumpsterCat)
 `sayHello(name:)` _requires_ an argument, but if you call on this function and don't pass an argument to `sayHello(name:)`, it will result in an error. If a function requires an argument, you must pass one when calling the function!
 
 While this is a Readme, this lesson's playground file contains several function declarations. To fork and clone from Github, first click on the little Github icon which is the first of four icons on the upper right side of your Learn screen. Then follow the workflow of forking and cloning the repository. Try various ways of calling those functions until you are comfortable with how they work.
-
-
----
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-functions-readme'>Functions</a> on Learn.co and start learning to code for free.</p>
